@@ -92,7 +92,7 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
           <div>
             Made with ❤️ by{' '}
             <a href="https://hostify.gg" target="_blank">
-              Hositfy.gg{' '}
+              Hostify.gg{' '}
             </a>
           </div>
         </div>
