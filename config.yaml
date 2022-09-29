@@ -25,8 +25,8 @@ monitors:
     linkable: false # allows the title to be a link, default=true
     
   - id: hostify-network # unique identifier
-    name: Regions
-    description: 'Network looking glass of Hostify.gg Network.' # default=empty
+    name: Backbone
+    description: 'Network looking glass and backbone of Hostify.gg Network.' # default=empty
     url: 'https://status.vultr.com/status.json' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
