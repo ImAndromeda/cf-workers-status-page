@@ -94,9 +94,6 @@ export default function Index({ config, kvMonitors, kvMonitorsLastUpdate }) {
             <a href="https://hostify.gg" target="_blank">
               Hositfy.gg{' '}
             </a>
-            <a href="https://discord.gg/d5dn3jNhRS" target="_blank">
-              Discord{' '}
-            </a>
           </div>
         </div>
       </div>
