@@ -1,7 +1,7 @@
 settings:
   title: 'Hostify Status Page'
   url: 'https://status.hostify.gg' # used for Slack messages
-  logo: logo-192x192.png # image in ./public/ folder
+  logo: Logo-1-edit.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
